@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation.Console.Main.App", "Presentation.Console.Main.App\Presentation.Console.Main.App.csproj", "{5B7ED317-913D-4AA3-AD21-4CE46014D5C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation.Main.App", "Presentation.Console.Main.App\Presentation.Main.App.csproj", "{5B7ED317-913D-4AA3-AD21-4CE46014D5C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{DFE19B6C-E8B1-4AE4-9920-90E5D4BCBA70}"
 EndProject
